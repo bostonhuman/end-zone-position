@@ -7,3 +7,5 @@ In this example, as the user scrolls down the page, a box slides into view if th
 1. Getting the height from the top of the page to the top of the footer in pixels.
 2. Subtracting the height of the viewport from this result.
 3. Substracting a further 500px for the area where the box will come into view.
+
+![000](https://cloud.githubusercontent.com/assets/18538482/16627450/5f9b2b24-437b-11e6-9fdd-b259fa80212f.png)
