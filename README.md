@@ -9,3 +9,11 @@ In this example, as the user scrolls down the page, a box slides into view if th
 3. Substracting a further 500px for the area where the box will come into view.
 
 ![000](https://cloud.githubusercontent.com/assets/18538482/16627450/5f9b2b24-437b-11e6-9fdd-b259fa80212f.png)
+
+## How to run the app in local machine?
+
+1. In your own terminal type:
+```
+git clone https://github.com/bostonhuman/end-zone-position
+```
+2. Open `position.html` to run the app.
